@@ -1,0 +1,47 @@
+{
+  "name": "@going-mobile/release-management",
+  "description": "Semantic commit and release configurations",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/going-dev/mobile-tech-challenge",
+    "directory": "packages/release-management"
+  },
+  "author": "Sara Pope <pizzaparty@going.com>",
+  "exports": {
+    "./commitlint": {
+      "default": "./dist/commitlint.js",
+      "types": "./dist/commitlint.d.ts"
+    },
+    "./cz": {
+      "default": "./dist/cz.js",
+      "types": "./dist/cz.d.ts"
+    },
+    "./semantic-release": {
+      "default": "./dist/semantic-release.js",
+      "types": "./dist/semantic-release.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "clean": "rm -rf .turbo && rm -rf dist && rm -rf node_modules",
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "@commitlint/types": "^17.0.0",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/exec": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "chalk": "^5.1.2"
+  },
+  "engines": {
+    "pnpm": ">=7.0.0",
+    "node": ">=16.0.0"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "private": true
+}

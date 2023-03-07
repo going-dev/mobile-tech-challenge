@@ -1,0 +1,20 @@
+{
+  "name": "@going-mobile/tech-challenge-api",
+  "description": "json-server API used in the Expo application",
+  "main": "api/server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/going-dev/mobile-tech-challenge",
+    "directory": "apps/api"
+  },
+  "author": "Sara Pope <pizzaparty@going.com>",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.2"
+  },
+  "devDependencies": {
+    "@going-mobile/config": "workspace:*"
+  }
+}

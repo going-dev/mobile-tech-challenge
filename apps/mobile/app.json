@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Going Tech Challenge",
+    "slug": "GTC",
+    "owner": "going-dev",
+    "scheme": "goingmobile",
+    "privacy": "unlisted",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "developmentClient": {
+      "silentLaunch": true
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.going.mobile-tech-challenge",
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.going.mobile-tech-challenge",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#fff"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5d9c31d9-7e5c-4a91-a85e-cfbf74f50bd0"
+      }
+    },
+    "updates": {
+      "enabled": true,
+      "url": "https://u.expo.dev/5d9c31d9-7e5c-4a91-a85e-cfbf74f50bd0"
+    }
+  }
+}

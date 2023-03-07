@@ -1,0 +1,36 @@
+{
+  "name": "going-mobile-tech-challenge",
+  "version": "0.1.0",
+  "description": "Going's mobile engineering technical challenge",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:going-dev/mobile-tech-challenge.git"
+  },
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "lint": "turbo run lint",
+    "postinstall": "pnpm run build",
+    "mobile": "pnpm run --filter @going-mobile/mobile",
+    "commit": "cz",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@going-mobile/release-management": "workspace:*",
+    "commitizen": "^4.3.0",
+    "commitlint": "^17.4.4",
+    "tsup": "^6.6.3",
+    "turbo": "latest",
+    "typescript": "^4.9.4",
+    "husky": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "packageManager": "pnpm@7.12.2"
+}
