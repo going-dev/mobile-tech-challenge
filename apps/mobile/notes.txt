@@ -2,6 +2,8 @@ features to add:
 - identify bucket list countries in 'where i'm going' section
 - remove bucket list countries when they've been checked off as visited
 - add ability to remove countries from 'where i've been'
+
+merge
 - add a new country to any list
 
 suggestions they should make:
