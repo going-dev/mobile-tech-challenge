@@ -1,0 +1,37 @@
+name: Pull Request
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event_name }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: 🏗 Setup repository
+        uses: actions/checkout@v3
+
+      - name: 🛂 Validate PR title
+        uses: ./.github/actions/pr-title
+        with:
+          github-token: ${{ secrets.GH_TOKEN }}
+
+      - name: 🏗 Setup monorepo
+        uses: ./.github/actions/setup-monorepo
+        with:
+          expo-token: ${{ secrets.EXPO_TOKEN }}
+
+      - name: 🧽 Run eslint
+        run: pnpm run lint
+
+      - name: 🚀 Create preview
+        uses: expo/expo-github-action/preview@v8
+        with:
+          working-directory: apps/mobile
+          command: eas update --auto --branch=pr-${{ github.event.number }}

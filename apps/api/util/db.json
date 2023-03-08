@@ -1,0 +1,2752 @@
+[
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc6a"
+    },
+    "name": "Antarctica",
+    "flag": "🇦🇶",
+    "isoCode": "AQ",
+    "isVisited": false,
+    "isBucketList": true,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc6b"
+    },
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "isoCode": "AR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc6c"
+    },
+    "name": "Armenia",
+    "flag": "🇦🇲",
+    "isoCode": "AM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc6d"
+    },
+    "name": "Aruba",
+    "flag": "🇦🇼",
+    "isoCode": "AW",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc6e"
+    },
+    "name": "Australia",
+    "flag": "🇦🇺",
+    "isoCode": "AU",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc6f"
+    },
+    "name": "Anguilla",
+    "flag": "🇦🇮",
+    "isoCode": "AI",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc70"
+    },
+    "name": "Austria",
+    "flag": "🇦🇹",
+    "isoCode": "AT",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc71"
+    },
+    "name": "Bahamas",
+    "flag": "🇧🇸",
+    "isoCode": "BS",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc72"
+    },
+    "name": "Azerbaijan",
+    "flag": "🇦🇿",
+    "isoCode": "AZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc73"
+    },
+    "name": "Bahrain",
+    "flag": "🇧🇭",
+    "isoCode": "BH",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc74"
+    },
+    "name": "Bangladesh",
+    "flag": "🇧🇩",
+    "isoCode": "BD",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc75"
+    },
+    "name": "Belarus",
+    "flag": "🇧🇾",
+    "isoCode": "BY",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc76"
+    },
+    "name": "Barbados",
+    "flag": "🇧🇧",
+    "isoCode": "BB",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc77"
+    },
+    "name": "Aland Islands",
+    "flag": "🇦🇽",
+    "isoCode": "AX",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc78"
+    },
+    "name": "Afghanistan",
+    "flag": "🇦🇫",
+    "isoCode": "AF",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc79"
+    },
+    "name": "Antigua and Barbuda",
+    "flag": "🇦🇬",
+    "isoCode": "AG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc7a"
+    },
+    "name": "American Samoa",
+    "flag": "🇦🇸",
+    "isoCode": "AS",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc7b"
+    },
+    "name": "Belize",
+    "flag": "🇧🇿",
+    "isoCode": "BZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc7c"
+    },
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "isoCode": "BE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc7d"
+    },
+    "name": "Botswana",
+    "flag": "🇧🇼",
+    "isoCode": "BW",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc7e"
+    },
+    "name": "Bouvet Island",
+    "flag": "🇧🇻",
+    "isoCode": "BV",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc7f"
+    },
+    "name": "Brazil",
+    "flag": "🇧🇷",
+    "isoCode": "BR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc80"
+    },
+    "name": "British Indian Ocean Territory",
+    "flag": "🇮🇴",
+    "isoCode": "IO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc81"
+    },
+    "name": "British Virgin Islands",
+    "flag": "🇻🇬",
+    "isoCode": "VG",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc82"
+    },
+    "name": "Brunei",
+    "flag": "🇧🇳",
+    "isoCode": "BN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc83"
+    },
+    "name": "Bulgaria",
+    "flag": "🇧🇬",
+    "isoCode": "BG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc84"
+    },
+    "name": "Algeria",
+    "flag": "🇩🇿",
+    "isoCode": "DZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc85"
+    },
+    "name": "Burkina Faso",
+    "flag": "🇧🇫",
+    "isoCode": "BF",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc86"
+    },
+    "name": "Burundi",
+    "flag": "🇧🇮",
+    "isoCode": "BI",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc87"
+    },
+    "name": "Cambodia",
+    "flag": "🇰🇭",
+    "isoCode": "KH",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc88"
+    },
+    "name": "Cameroon",
+    "flag": "🇨🇲",
+    "isoCode": "CM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc89"
+    },
+    "name": "Canada",
+    "flag": "🇨🇦",
+    "isoCode": "CA",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc8a"
+    },
+    "name": "Benin",
+    "flag": "🇧🇯",
+    "isoCode": "BJ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc8b"
+    },
+    "name": "Bhutan",
+    "flag": "🇧🇹",
+    "isoCode": "BT",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc8c"
+    },
+    "name": "Bermuda",
+    "flag": "🇧🇲",
+    "isoCode": "BM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc8d"
+    },
+    "name": "Bosnia and Herzegovina",
+    "flag": "🇧🇦",
+    "isoCode": "BA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc8e"
+    },
+    "name": "Bolivia",
+    "flag": "🇧🇴",
+    "isoCode": "BO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc8f"
+    },
+    "name": "Cape Verde",
+    "flag": "🇨🇻",
+    "isoCode": "CV",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc90"
+    },
+    "name": "Andorra",
+    "flag": "🇦🇩",
+    "isoCode": "AD",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc91"
+    },
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "flag": "🇧🇶",
+    "isoCode": "BQ",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc92"
+    },
+    "name": "Albania",
+    "flag": "🇦🇱",
+    "isoCode": "AL",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc93"
+    },
+    "name": "Angola",
+    "flag": "🇦🇴",
+    "isoCode": "AO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc94"
+    },
+    "name": "Cayman Islands",
+    "flag": "🇰🇾",
+    "isoCode": "KY",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc95"
+    },
+    "name": "Central African Republic",
+    "flag": "🇨🇫",
+    "isoCode": "CF",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc96"
+    },
+    "name": "Chad",
+    "flag": "🇹🇩",
+    "isoCode": "TD",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc97"
+    },
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "isoCode": "CL",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc98"
+    },
+    "name": "Christmas Island",
+    "flag": "🇨🇽",
+    "isoCode": "CX",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc99"
+    },
+    "name": "China",
+    "flag": "🇨🇳",
+    "isoCode": "CN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc9a"
+    },
+    "name": "Comoros",
+    "flag": "🇰🇲",
+    "isoCode": "KM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc9b"
+    },
+    "name": "Colombia",
+    "flag": "🇨🇴",
+    "isoCode": "CO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc9c"
+    },
+    "name": "Cocos (Keeling) Islands",
+    "flag": "🇨🇨",
+    "isoCode": "CC",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc9d"
+    },
+    "name": "Djibouti",
+    "flag": "🇩🇯",
+    "isoCode": "DJ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc9e"
+    },
+    "name": "Croatia",
+    "flag": "🇭🇷",
+    "isoCode": "HR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": true
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dc9f"
+    },
+    "name": "Denmark",
+    "flag": "🇩🇰",
+    "isoCode": "DK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca0"
+    },
+    "name": "Dominica",
+    "flag": "🇩🇲",
+    "isoCode": "DM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca1"
+    },
+    "name": "DR Congo",
+    "flag": "🇨🇩",
+    "isoCode": "CD",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca2"
+    },
+    "name": "Dominican Republic",
+    "flag": "🇩🇴",
+    "isoCode": "DO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca3"
+    },
+    "name": "Cook Islands",
+    "flag": "🇨🇰",
+    "isoCode": "CK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca4"
+    },
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "isoCode": "EG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca5"
+    },
+    "name": "Costa Rica",
+    "flag": "🇨🇷",
+    "isoCode": "CR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca6"
+    },
+    "name": "El Salvador",
+    "flag": "🇸🇻",
+    "isoCode": "SV",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca7"
+    },
+    "name": "Eritrea",
+    "flag": "🇪🇷",
+    "isoCode": "ER",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca8"
+    },
+    "name": "Ecuador",
+    "flag": "🇪🇨",
+    "isoCode": "EC",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dca9"
+    },
+    "name": "Eswatini",
+    "flag": "🇸🇿",
+    "isoCode": "SZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcaa"
+    },
+    "name": "Equatorial Guinea",
+    "flag": "🇬🇶",
+    "isoCode": "GQ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcab"
+    },
+    "name": "Falkland Islands",
+    "flag": "🇫🇰",
+    "isoCode": "FK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcac"
+    },
+    "name": "Ethiopia",
+    "flag": "🇪🇹",
+    "isoCode": "ET",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcad"
+    },
+    "name": "Faroe Islands",
+    "flag": "🇫🇴",
+    "isoCode": "FO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcae"
+    },
+    "name": "Côte d'Ivoire",
+    "flag": "🇨🇮",
+    "isoCode": "CI",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcaf"
+    },
+    "name": "Fiji",
+    "flag": "🇫🇯",
+    "isoCode": "FJ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb0"
+    },
+    "name": "Cyprus",
+    "flag": "🇨🇾",
+    "isoCode": "CY",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb1"
+    },
+    "name": "Czechia",
+    "flag": "🇨🇿",
+    "isoCode": "CZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb2"
+    },
+    "name": "Estonia",
+    "flag": "🇪🇪",
+    "isoCode": "EE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb3"
+    },
+    "name": "Cuba",
+    "flag": "🇨🇺",
+    "isoCode": "CU",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb4"
+    },
+    "name": "Curaçao",
+    "flag": "🇨🇼",
+    "isoCode": "CW",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb5"
+    },
+    "name": "Finland",
+    "flag": "🇫🇮",
+    "isoCode": "FI",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb6"
+    },
+    "name": "French Guiana",
+    "flag": "🇬🇫",
+    "isoCode": "GF",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb7"
+    },
+    "name": "French Southern and Antarctic Lands",
+    "flag": "🇹🇫",
+    "isoCode": "TF",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb8"
+    },
+    "name": "France",
+    "flag": "🇫🇷",
+    "isoCode": "FR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcb9"
+    },
+    "name": "Gambia",
+    "flag": "🇬🇲",
+    "isoCode": "GM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcba"
+    },
+    "name": "French Polynesia",
+    "flag": "🇵🇫",
+    "isoCode": "PF",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcbb"
+    },
+    "name": "Gabon",
+    "flag": "🇬🇦",
+    "isoCode": "GA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcbc"
+    },
+    "name": "Germany",
+    "flag": "🇩🇪",
+    "isoCode": "DE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcbd"
+    },
+    "name": "Georgia",
+    "flag": "🇬🇪",
+    "isoCode": "GE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcbe"
+    },
+    "name": "Greece",
+    "flag": "🇬🇷",
+    "isoCode": "GR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcbf"
+    },
+    "name": "Guadeloupe",
+    "flag": "🇬🇵",
+    "isoCode": "GP",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc0"
+    },
+    "name": "Gibraltar",
+    "flag": "🇬🇮",
+    "isoCode": "GI",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc1"
+    },
+    "name": "Grenada",
+    "flag": "🇬🇩",
+    "isoCode": "GD",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc2"
+    },
+    "name": "Greenland",
+    "flag": "🇬🇱",
+    "isoCode": "GL",
+    "isVisited": false,
+    "isBucketList": true,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc3"
+    },
+    "name": "Guam",
+    "flag": "🇬🇺",
+    "isoCode": "GU",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc4"
+    },
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "isoCode": "GH",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc5"
+    },
+    "name": "Guernsey",
+    "flag": "🇬🇬",
+    "isoCode": "GG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc6"
+    },
+    "name": "Guatemala",
+    "flag": "🇬🇹",
+    "isoCode": "GT",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc7"
+    },
+    "name": "Guinea",
+    "flag": "🇬🇳",
+    "isoCode": "GN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc8"
+    },
+    "name": "Haiti",
+    "flag": "🇭🇹",
+    "isoCode": "HT",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcc9"
+    },
+    "name": "Guyana",
+    "flag": "🇬🇾",
+    "isoCode": "GY",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcca"
+    },
+    "name": "Guinea-Bissau",
+    "flag": "🇬🇼",
+    "isoCode": "GW",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dccb"
+    },
+    "name": "Heard Island and McDonald Islands",
+    "flag": "🇭🇲",
+    "isoCode": "HM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dccc"
+    },
+    "name": "Honduras",
+    "flag": "🇭🇳",
+    "isoCode": "HN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dccd"
+    },
+    "name": "Israel",
+    "flag": "🇮🇱",
+    "isoCode": "IL",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcce"
+    },
+    "name": "India",
+    "flag": "🇮🇳",
+    "isoCode": "IN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dccf"
+    },
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "isoCode": "IT",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd0"
+    },
+    "name": "Jamaica",
+    "flag": "🇯🇲",
+    "isoCode": "JM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd1"
+    },
+    "name": "Hungary",
+    "flag": "🇭🇺",
+    "isoCode": "HU",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": true
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd2"
+    },
+    "name": "Japan",
+    "flag": "🇯🇵",
+    "isoCode": "JP",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd3"
+    },
+    "name": "Iran",
+    "flag": "🇮🇷",
+    "isoCode": "IR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd4"
+    },
+    "name": "Jordan",
+    "flag": "🇯🇴",
+    "isoCode": "JO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd5"
+    },
+    "name": "Indonesia",
+    "flag": "🇮🇩",
+    "isoCode": "ID",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd6"
+    },
+    "name": "Jersey",
+    "flag": "🇯🇪",
+    "isoCode": "JE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd7"
+    },
+    "name": "Kazakhstan",
+    "flag": "🇰🇿",
+    "isoCode": "KZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd8"
+    },
+    "name": "Iraq",
+    "flag": "🇮🇶",
+    "isoCode": "IQ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcd9"
+    },
+    "name": "Kiribati",
+    "flag": "🇰🇮",
+    "isoCode": "KI",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcda"
+    },
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "isoCode": "KE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcdb"
+    },
+    "name": "Kyrgyzstan",
+    "flag": "🇰🇬",
+    "isoCode": "KG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcdc"
+    },
+    "name": "Ireland",
+    "flag": "🇮🇪",
+    "isoCode": "IE",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcdd"
+    },
+    "name": "Laos",
+    "flag": "🇱🇦",
+    "isoCode": "LA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcde"
+    },
+    "name": "Kosovo",
+    "flag": "🇽🇰",
+    "isoCode": "XK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcdf"
+    },
+    "name": "Kuwait",
+    "flag": "🇰🇼",
+    "isoCode": "KW",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce0"
+    },
+    "name": "Hong Kong",
+    "flag": "🇭🇰",
+    "isoCode": "HK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce1"
+    },
+    "name": "Latvia",
+    "flag": "🇱🇻",
+    "isoCode": "LV",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce2"
+    },
+    "name": "Lesotho",
+    "flag": "🇱🇸",
+    "isoCode": "LS",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce3"
+    },
+    "name": "Liberia",
+    "flag": "🇱🇷",
+    "isoCode": "LR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce4"
+    },
+    "name": "Iceland",
+    "flag": "🇮🇸",
+    "isoCode": "IS",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce5"
+    },
+    "name": "Libya",
+    "flag": "🇱🇾",
+    "isoCode": "LY",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce6"
+    },
+    "name": "Lebanon",
+    "flag": "🇱🇧",
+    "isoCode": "LB",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce7"
+    },
+    "name": "Isle of Man",
+    "flag": "🇮🇲",
+    "isoCode": "IM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce8"
+    },
+    "name": "Lithuania",
+    "flag": "🇱🇹",
+    "isoCode": "LT",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": true
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dce9"
+    },
+    "name": "Luxembourg",
+    "flag": "🇱🇺",
+    "isoCode": "LU",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcea"
+    },
+    "name": "Liechtenstein",
+    "flag": "🇱🇮",
+    "isoCode": "LI",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dceb"
+    },
+    "name": "Macau",
+    "flag": "🇲🇴",
+    "isoCode": "MO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcec"
+    },
+    "name": "Madagascar",
+    "flag": "🇲🇬",
+    "isoCode": "MG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dced"
+    },
+    "name": "Malaysia",
+    "flag": "🇲🇾",
+    "isoCode": "MY",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcee"
+    },
+    "name": "Malawi",
+    "flag": "🇲🇼",
+    "isoCode": "MW",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcef"
+    },
+    "name": "Maldives",
+    "flag": "🇲🇻",
+    "isoCode": "MV",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf0"
+    },
+    "name": "Mali",
+    "flag": "🇲🇱",
+    "isoCode": "ML",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf1"
+    },
+    "name": "Marshall Islands",
+    "flag": "🇲🇭",
+    "isoCode": "MH",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf2"
+    },
+    "name": "Malta",
+    "flag": "🇲🇹",
+    "isoCode": "MT",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf3"
+    },
+    "name": "Mauritania",
+    "flag": "🇲🇷",
+    "isoCode": "MR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf4"
+    },
+    "name": "Martinique",
+    "flag": "🇲🇶",
+    "isoCode": "MQ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf5"
+    },
+    "name": "Mayotte",
+    "flag": "🇾🇹",
+    "isoCode": "YT",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf6"
+    },
+    "name": "Mauritius",
+    "flag": "🇲🇺",
+    "isoCode": "MU",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf7"
+    },
+    "name": "Micronesia",
+    "flag": "🇫🇲",
+    "isoCode": "FM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf8"
+    },
+    "name": "Monaco",
+    "flag": "🇲🇨",
+    "isoCode": "MC",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcf9"
+    },
+    "name": "Mexico",
+    "flag": "🇲🇽",
+    "isoCode": "MX",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcfa"
+    },
+    "name": "Moldova",
+    "flag": "🇲🇩",
+    "isoCode": "MD",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcfb"
+    },
+    "name": "Mongolia",
+    "flag": "🇲🇳",
+    "isoCode": "MN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcfc"
+    },
+    "name": "Montserrat",
+    "flag": "🇲🇸",
+    "isoCode": "MS",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcfd"
+    },
+    "name": "Montenegro",
+    "flag": "🇲🇪",
+    "isoCode": "ME",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcfe"
+    },
+    "name": "Mozambique",
+    "flag": "🇲🇿",
+    "isoCode": "MZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dcff"
+    },
+    "name": "Namibia",
+    "flag": "🇳🇦",
+    "isoCode": "NA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd00"
+    },
+    "name": "Nauru",
+    "flag": "🇳🇷",
+    "isoCode": "NR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd01"
+    },
+    "name": "Nepal",
+    "flag": "🇳🇵",
+    "isoCode": "NP",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd02"
+    },
+    "name": "Netherlands",
+    "flag": "🇳🇱",
+    "isoCode": "NL",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd03"
+    },
+    "name": "Myanmar",
+    "flag": "🇲🇲",
+    "isoCode": "MM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd04"
+    },
+    "name": "New Caledonia",
+    "flag": "🇳🇨",
+    "isoCode": "NC",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd05"
+    },
+    "name": "Nicaragua",
+    "flag": "🇳🇮",
+    "isoCode": "NI",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd06"
+    },
+    "name": "New Zealand",
+    "flag": "🇳🇿",
+    "isoCode": "NZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd07"
+    },
+    "name": "Norfolk Island",
+    "flag": "🇳🇫",
+    "isoCode": "NF",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd08"
+    },
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "isoCode": "MA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd09"
+    },
+    "name": "Niue",
+    "flag": "🇳🇺",
+    "isoCode": "NU",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd0a"
+    },
+    "name": "Niger",
+    "flag": "🇳🇪",
+    "isoCode": "NE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd0b"
+    },
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "isoCode": "NG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd0c"
+    },
+    "name": "Oman",
+    "flag": "🇴🇲",
+    "isoCode": "OM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd0d"
+    },
+    "name": "Pakistan",
+    "flag": "🇵🇰",
+    "isoCode": "PK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd0e"
+    },
+    "name": "Palau",
+    "flag": "🇵🇼",
+    "isoCode": "PW",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd0f"
+    },
+    "name": "North Macedonia",
+    "flag": "🇲🇰",
+    "isoCode": "MK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd10"
+    },
+    "name": "Palestine",
+    "flag": "🇵🇸",
+    "isoCode": "PS",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd11"
+    },
+    "name": "Northern Mariana Islands",
+    "flag": "🇲🇵",
+    "isoCode": "MP",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd12"
+    },
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "isoCode": "NO",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd13"
+    },
+    "name": "Panama",
+    "flag": "🇵🇦",
+    "isoCode": "PA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd14"
+    },
+    "name": "North Korea",
+    "flag": "🇰🇵",
+    "isoCode": "KP",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd15"
+    },
+    "name": "Papua New Guinea",
+    "flag": "🇵🇬",
+    "isoCode": "PG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd16"
+    },
+    "name": "Paraguay",
+    "flag": "🇵🇾",
+    "isoCode": "PY",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd17"
+    },
+    "name": "Peru",
+    "flag": "🇵🇪",
+    "isoCode": "PE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd18"
+    },
+    "name": "Russia",
+    "flag": "🇷🇺",
+    "isoCode": "RU",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd19"
+    },
+    "name": "Rwanda",
+    "flag": "🇷🇼",
+    "isoCode": "RW",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd1a"
+    },
+    "name": "Portugal",
+    "flag": "🇵🇹",
+    "isoCode": "PT",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd1b"
+    },
+    "name": "Romania",
+    "flag": "🇷🇴",
+    "isoCode": "RO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd1c"
+    },
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "flag": "🇸🇭",
+    "isoCode": "SH",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd1d"
+    },
+    "name": "Saint Kitts and Nevis",
+    "flag": "🇰🇳",
+    "isoCode": "KN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd1e"
+    },
+    "name": "Saint Barthélemy",
+    "flag": "🇧🇱",
+    "isoCode": "BL",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd1f"
+    },
+    "name": "Saint Martin",
+    "flag": "🇲🇫",
+    "isoCode": "MF",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd20"
+    },
+    "name": "Saint Lucia",
+    "flag": "🇱🇨",
+    "isoCode": "LC",
+    "isVisited": false,
+    "isBucketList": true,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd21"
+    },
+    "name": "Saint Vincent and the Grenadines",
+    "flag": "🇻🇨",
+    "isoCode": "VC",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd22"
+    },
+    "name": "San Marino",
+    "flag": "🇸🇲",
+    "isoCode": "SM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd23"
+    },
+    "name": "Samoa",
+    "flag": "🇼🇸",
+    "isoCode": "WS",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd24"
+    },
+    "name": "Pitcairn Islands",
+    "flag": "🇵🇳",
+    "isoCode": "PN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd25"
+    },
+    "name": "São Tomé and Príncipe",
+    "flag": "🇸🇹",
+    "isoCode": "ST",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd26"
+    },
+    "name": "Puerto Rico",
+    "flag": "🇵🇷",
+    "isoCode": "PR",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd27"
+    },
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "isoCode": "SN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd28"
+    },
+    "name": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "isoCode": "SA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd29"
+    },
+    "name": "Qatar",
+    "flag": "🇶🇦",
+    "isoCode": "QA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd2a"
+    },
+    "name": "Saint Pierre and Miquelon",
+    "flag": "🇵🇲",
+    "isoCode": "PM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd2b"
+    },
+    "name": "Republic of the Congo",
+    "flag": "🇨🇬",
+    "isoCode": "CG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd2c"
+    },
+    "name": "Réunion",
+    "flag": "🇷🇪",
+    "isoCode": "RE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd2d"
+    },
+    "name": "Philippines",
+    "flag": "🇵🇭",
+    "isoCode": "PH",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd2e"
+    },
+    "name": "Singapore",
+    "flag": "🇸🇬",
+    "isoCode": "SG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd2f"
+    },
+    "name": "Serbia",
+    "flag": "🇷🇸",
+    "isoCode": "RS",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd30"
+    },
+    "name": "Seychelles",
+    "flag": "🇸🇨",
+    "isoCode": "SC",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd31"
+    },
+    "name": "Sint Maarten",
+    "flag": "🇸🇽",
+    "isoCode": "SX",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd32"
+    },
+    "name": "Poland",
+    "flag": "🇵🇱",
+    "isoCode": "PL",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd33"
+    },
+    "name": "Slovakia",
+    "flag": "🇸🇰",
+    "isoCode": "SK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd34"
+    },
+    "name": "Sierra Leone",
+    "flag": "🇸🇱",
+    "isoCode": "SL",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd35"
+    },
+    "name": "Somalia",
+    "flag": "🇸🇴",
+    "isoCode": "SO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd36"
+    },
+    "name": "Slovenia",
+    "flag": "🇸🇮",
+    "isoCode": "SI",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd37"
+    },
+    "name": "Solomon Islands",
+    "flag": "🇸🇧",
+    "isoCode": "SB",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd38"
+    },
+    "name": "South Georgia",
+    "flag": "🇬🇸",
+    "isoCode": "GS",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd39"
+    },
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "isoCode": "ES",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd3a"
+    },
+    "name": "South Sudan",
+    "flag": "🇸🇸",
+    "isoCode": "SS",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd3b"
+    },
+    "name": "South Korea",
+    "flag": "🇰🇷",
+    "isoCode": "KR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd3c"
+    },
+    "name": "South Africa",
+    "flag": "🇿🇦",
+    "isoCode": "ZA",
+    "isVisited": false,
+    "isBucketList": true,
+    "isGoing": true
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd3d"
+    },
+    "name": "Sri Lanka",
+    "flag": "🇱🇰",
+    "isoCode": "LK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd3e"
+    },
+    "name": "Sudan",
+    "flag": "🇸🇩",
+    "isoCode": "SD",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd3f"
+    },
+    "name": "Suriname",
+    "flag": "🇸🇷",
+    "isoCode": "SR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd40"
+    },
+    "name": "Svalbard and Jan Mayen",
+    "flag": "🇸🇯",
+    "isoCode": "SJ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd41"
+    },
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "isoCode": "SE",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd42"
+    },
+    "name": "Taiwan",
+    "flag": "🇹🇼",
+    "isoCode": "TW",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd43"
+    },
+    "name": "Syria",
+    "flag": "🇸🇾",
+    "isoCode": "SY",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd44"
+    },
+    "name": "Tajikistan",
+    "flag": "🇹🇯",
+    "isoCode": "TJ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd45"
+    },
+    "name": "Thailand",
+    "flag": "🇹🇭",
+    "isoCode": "TH",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd46"
+    },
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "isoCode": "TZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd47"
+    },
+    "name": "Timor-Leste",
+    "flag": "🇹🇱",
+    "isoCode": "TL",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd48"
+    },
+    "name": "Togo",
+    "flag": "🇹🇬",
+    "isoCode": "TG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd49"
+    },
+    "name": "Switzerland",
+    "flag": "🇨🇭",
+    "isoCode": "CH",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd4a"
+    },
+    "name": "Tokelau",
+    "flag": "🇹🇰",
+    "isoCode": "TK",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd4b"
+    },
+    "name": "Trinidad and Tobago",
+    "flag": "🇹🇹",
+    "isoCode": "TT",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd4c"
+    },
+    "name": "Tonga",
+    "flag": "🇹🇴",
+    "isoCode": "TO",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd4d"
+    },
+    "name": "Turkey",
+    "flag": "🇹🇷",
+    "isoCode": "TR",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd4e"
+    },
+    "name": "Tunisia",
+    "flag": "🇹🇳",
+    "isoCode": "TN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd4f"
+    },
+    "name": "Turks and Caicos Islands",
+    "flag": "🇹🇨",
+    "isoCode": "TC",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd50"
+    },
+    "name": "Tuvalu",
+    "flag": "🇹🇻",
+    "isoCode": "TV",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd51"
+    },
+    "name": "Turkmenistan",
+    "flag": "🇹🇲",
+    "isoCode": "TM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd52"
+    },
+    "name": "Uruguay",
+    "flag": "🇺🇾",
+    "isoCode": "UY",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd53"
+    },
+    "name": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "isoCode": "AE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd54"
+    },
+    "name": "United States",
+    "flag": "🇺🇸",
+    "isoCode": "US",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd55"
+    },
+    "name": "Vanuatu",
+    "flag": "🇻🇺",
+    "isoCode": "VU",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd56"
+    },
+    "name": "Vatican City",
+    "flag": "🇻🇦",
+    "isoCode": "VA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd57"
+    },
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "isoCode": "VE",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd58"
+    },
+    "name": "Wallis and Futuna",
+    "flag": "🇼🇫",
+    "isoCode": "WF",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd59"
+    },
+    "name": "Vietnam",
+    "flag": "🇻🇳",
+    "isoCode": "VN",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd5a"
+    },
+    "name": "Zambia",
+    "flag": "🇿🇲",
+    "isoCode": "ZM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd5b"
+    },
+    "name": "Western Sahara",
+    "flag": "🇪🇭",
+    "isoCode": "EH",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd5c"
+    },
+    "name": "Yemen",
+    "flag": "🇾🇪",
+    "isoCode": "YE",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd5d"
+    },
+    "name": "Uganda",
+    "flag": "🇺🇬",
+    "isoCode": "UG",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd5e"
+    },
+    "name": "Zimbabwe",
+    "flag": "🇿🇼",
+    "isoCode": "ZW",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd5f"
+    },
+    "name": "United Kingdom",
+    "flag": "🇬🇧",
+    "isoCode": "GB",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd60"
+    },
+    "name": "United States Minor Outlying Islands",
+    "flag": "🇺🇲",
+    "isoCode": "UM",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd61"
+    },
+    "name": "Ukraine",
+    "flag": "🇺🇦",
+    "isoCode": "UA",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd62"
+    },
+    "name": "United States Virgin Islands",
+    "flag": "🇻🇮",
+    "isoCode": "VI",
+    "isVisited": true,
+    "isBucketList": false,
+    "isGoing": false
+  },
+  {
+    "_id": {
+      "$oid": "6408be2461d5339b50a7dd63"
+    },
+    "name": "Uzbekistan",
+    "flag": "🇺🇿",
+    "isoCode": "UZ",
+    "isVisited": false,
+    "isBucketList": false,
+    "isGoing": false
+  }
+]

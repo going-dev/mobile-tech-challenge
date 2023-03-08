@@ -1,0 +1,44 @@
+{
+  "name": "@going-mobile/config",
+  "description": "Internal tooling (lint, test, etc.) configs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/going-dev/mobile-tech-challenge",
+    "directory": "packages/config"
+  },
+  "author": "Sara Pope <pizzaparty@going.com>",
+  "files": [
+    "eslint.js",
+    "tsconfig.base.json",
+    "tsconfig.node.json",
+    "tsconfig.react-native.json"
+  ],
+  "scripts": {
+    "clean": "rm -rf .turbo && rm -rf node_modules"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.40.1",
+    "@typescript-eslint/parser": "^5.40.1",
+    "babel-plugin-module-resolver": "^5.0.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-babel-module": "^5.3.1",
+    "eslint-import-resolver-typescript": "^3.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.10",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-native-a11y": "^3.3.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "prettier": "^2.7.1"
+  },
+  "engines": {
+    "pnpm": ">=7.0.0",
+    "node": ">=16.0.0"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "private": true
+}

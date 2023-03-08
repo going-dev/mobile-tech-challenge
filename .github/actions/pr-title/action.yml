@@ -1,0 +1,22 @@
+name: Semantic PR
+description: Enforce semantic PR title
+
+inputs:
+  github-token:
+    description: Github token
+    value: string
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - uses: amannn/action-semantic-pull-request@v5
+      env:
+        GITHUB_TOKEN: ${{ inputs.github-token }}
+      with:
+        types: |
+          breaking
+          feat
+          fix
+          chore
+        requireScope: false
