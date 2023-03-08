@@ -15,8 +15,8 @@ runs:
         GITHUB_TOKEN: ${{ inputs.github-token }}
       with:
         types: |
-          breaking
-          feat
-          fix
-          chore
+          :boom:
+          :sparkles:
+          :bug:
+          :broom:
         requireScope: false
