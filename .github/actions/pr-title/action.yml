@@ -3,7 +3,7 @@ description: Enforce semantic PR title
 
 inputs:
   github-token:
-    description: Github token
+    description: Github toke
     value: string
     required: true
 
