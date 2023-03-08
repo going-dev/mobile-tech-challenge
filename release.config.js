@@ -60,7 +60,7 @@ module.exports = {
       "@semantic-release/git",
       {
         message:
-          "release: `${nextRelease.gitTag}` [skip ci] \n\n${nextRelease.notes}",
+          "🔖 `${nextRelease.gitTag}` [skip ci] \n\n${nextRelease.notes}",
         assets: ["package.json", "CHANGELOG.md"],
       },
     ],
