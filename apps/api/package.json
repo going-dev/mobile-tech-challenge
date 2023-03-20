@@ -1,0 +1,31 @@
+{
+  "name": "@going-mobile/tech-challenge-api",
+  "description": "json-server API used in the Expo application",
+  "main": "api/server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/going-dev/mobile-tech-challenge",
+    "directory": "apps/api"
+  },
+  "author": "Sara Pope <pizzaparty@going.com>",
+  "scripts": {
+    "lint": "eslint src --fix",
+    "dev": "NODE_ENV=development nodemon src/server.ts",
+    "reset": "./util/reset_db.sh"
+  },
+  "dependencies": {
+    "@fastify/compress": "^6.2.0",
+    "@fastify/cors": "^8.2.0",
+    "@fastify/helmet": "^10.1.0",
+    "@fastify/type-provider-typebox": "^2.4.0",
+    "@hapi/boom": "^10.0.1",
+    "@sinclair/typebox": "^0.25.24",
+    "@vercel/node": "^2.9.12",
+    "fastify": "^4.14.1",
+    "mongoose": "^7.0.1"
+  },
+  "devDependencies": {
+    "@going-mobile/config": "workspace:*",
+    "nodemon": "^2.0.21"
+  }
+}

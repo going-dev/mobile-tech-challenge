@@ -1,0 +1,51 @@
+{
+  "path": "./node_modules/cz-emoji",
+  "config": {
+    "cz-emoji": {
+      "skipQuestions": [
+        "scope",
+        "body",
+        "issues",
+        "breaking"
+      ],
+      "types": [
+        {
+          "name": "breaking",
+          "code": ":boom:",
+          "emoji": "💥",
+          "description": "Introduce a breaking change"
+        },
+        {
+          "name": "feat",
+          "code": ":sparkles:",
+          "emoji": "✨",
+          "description": "Introduce a new feature"
+        },
+        {
+          "name": "fix",
+          "code": ":bug:",
+          "emoji": "🐛",
+          "description": "Fix a bug"
+        },
+        {
+          "name": "chore",
+          "code": ":wrench:",
+          "emoji": "🔧",
+          "description": "Changes that don't modify any source or test files"
+        },
+        {
+          "name": "release",
+          "code": ":bookmark:",
+          "emoji": "🔖",
+          "description": "Release the next version"
+        },
+        {
+          "name": "wip",
+          "code": ":construction:",
+          "emoji": "🚧",
+          "description": "Work in progress"
+        }
+      ]
+    }
+  }
+}
