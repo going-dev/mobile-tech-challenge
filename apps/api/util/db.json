@@ -72,7 +72,7 @@
     "name": "Austria",
     "flag": "🇦🇹",
     "isoCode": "AT",
-    "isVisited": true,
+    "isVisited": false,
     "isBucketList": false,
     "isGoing": false
   },
@@ -435,7 +435,7 @@
     "name": "Bonaire, Sint Eustatius and Saba",
     "flag": "🇧🇶",
     "isoCode": "BQ",
-    "isVisited": true,
+    "isVisited": false,
     "isBucketList": false,
     "isGoing": false
   },
@@ -820,7 +820,7 @@
     "name": "Curaçao",
     "flag": "🇨🇼",
     "isoCode": "CW",
-    "isVisited": true,
+    "isVisited": false,
     "isBucketList": false,
     "isGoing": false
   },
@@ -1414,7 +1414,7 @@
     "name": "Liechtenstein",
     "flag": "🇱🇮",
     "isoCode": "LI",
-    "isVisited": true,
+    "isVisited": false,
     "isBucketList": false,
     "isGoing": false
   },
@@ -2250,7 +2250,7 @@
     "name": "Slovenia",
     "flag": "🇸🇮",
     "isoCode": "SI",
-    "isVisited": true,
+    "isVisited": false,
     "isBucketList": false,
     "isGoing": false
   },
