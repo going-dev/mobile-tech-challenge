@@ -6,6 +6,7 @@
     "type": "git",
     "url": "git@github.com:going-dev/mobile-tech-challenge.git"
   },
+  "packageManager": "pnpm@10.3.0",
   "private": true,
   "workspaces": [
     "apps/*",

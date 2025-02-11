@@ -26,7 +26,7 @@ export default function Visited(): ReactElement {
             renderItem={({ item }: { item: Country }): ReactElement => (
               <CountryListItem
                 country={item}
-                onPress={(): void =>
+                onPressDelete={(): void =>
                   mutate({
                     _id: item._id,
                     isVisited: false,

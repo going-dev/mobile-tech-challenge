@@ -1150,8 +1150,8 @@
     "name": "Japan",
     "flag": "🇯🇵",
     "isoCode": "JP",
-    "isVisited": false,
-    "isBucketList": false,
+    "isVisited": true,
+    "isBucketList": true,
     "isGoing": false
   },
   {

@@ -4,17 +4,17 @@ import type { Country } from "../types/country";
 
 export function CountryListItem({
   country,
-  onPress,
+  onPressDelete,
 }: {
   country: Country;
-  onPress: () => void;
+  onPressDelete: () => void;
 }): ReactElement {
   return (
     <HStack w="100%" justifyContent="space-between">
       <Text fontSize="xl" fontWeight="500">
         {country.flag} {country.name}
       </Text>
-      <Pressable onPress={onPress}>
+      <Pressable onPress={onPressDelete}>
         <CloseIcon mt="2" />
       </Pressable>
     </HStack>
